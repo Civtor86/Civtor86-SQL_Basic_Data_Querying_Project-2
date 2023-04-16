@@ -1,4 +1,4 @@
-# Civtor86-SQL_Basic_Data_Querying_Project-2
+SQL_Basic_Data_Querying_Project-2
 SQL_Basic_Data_Querying Project 2
 
 This is my Second SQL project for the SQL Crash Course provided by CoRise(https://corise.com/course/sql-crash-course), where I explore the basic queries of SQL by creating and manipulating custom tables.
